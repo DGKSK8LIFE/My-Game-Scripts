@@ -1,2 +1,2 @@
 # My-Game-Scripts
-scripts I write to make mobility and other mechanics in video games I play easier
+Scripts I'm writing to make mobility and other mechanics in video games I play easier.
